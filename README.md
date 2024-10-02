@@ -1,2 +1,2 @@
-# Movie Recommender System Project
-Content Based Recommender System with Heroku Deployment
+# Movie Recommender System Project [TMDB Dataset]
+Content Based Recommender System with Heroku Deployment using Cosine Similarity
